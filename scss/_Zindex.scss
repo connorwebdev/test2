@@ -1,0 +1,15 @@
+#background {
+	z-index: 1;
+}
+
+#main {
+	img,
+	figcaption {
+		z-index: 2;
+	}
+	
+	i,
+	#close {
+		z-index: 3;
+	}
+}
